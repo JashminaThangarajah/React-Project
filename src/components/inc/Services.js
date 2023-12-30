@@ -14,7 +14,7 @@ function Services(){
         <div className="col-md-4 ">
             <div className="card shadow">
                 <div className="card-body">
-                    <img src={Service1} className="w-100 border-bottom" alt="img" />
+                    <img src={Service1} className="w-100 border-bottom" alt="img" height="400px" />
                 <div className="card-body">
                     <h6>Services 1</h6>
                     <div className="underline"></div>
@@ -31,7 +31,7 @@ function Services(){
         <div className="col-md-4 ">
             <div className="card shadow">
                 <div className="card-body">
-                    <img src={Service1} className="w-100 border-bottom" alt="img" />
+                    <img src={Service1} className="w-100 border-bottom" alt="img"  height="400px"/>
                 <div className="card-body">
                     <h6>Services 1</h6>
                     <div className="underline"></div>
@@ -48,7 +48,7 @@ function Services(){
         <div className="col-md-4 ">
             <div className="card shadow">
                 <div className="card-body">
-                    <img src={Service1} className="w-100 border-bottom" alt="img" />
+                    <img src={Service1} className="w-100 border-bottom" alt="img"  height="400px" />
                 <div className="card-body">
                     <h6>Services 1</h6>
                     <div className="underline"></div>
