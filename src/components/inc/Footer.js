@@ -5,13 +5,13 @@ function Footer(){
     <section className="section footer bg-dark text-white">
         <div class="footer-bg">
                 <div class="footer-container">
-                    <div class="row">   
+                    <div class="row ">   
                     <div class="col-md-4">
                         <h4 class="footer-heading">Quick Links</h4>
                         <div class="footer-underline"></div>
                         <div><Link to="/">Home</Link></div>
-                        <div><Link to="/">About Us</Link></div>
-                        <div><Link to="/">Contact Us</Link></div>
+                        <div><Link to="/about">About Us</Link></div>
+                        <div><Link to="/contact">Contact Us</Link></div>
                     </div>
 
                     <div class="col-md-4">

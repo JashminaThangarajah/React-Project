@@ -1,5 +1,7 @@
 import React from 'react';
 import About from '../images/slider3.jpg';
+import Vmc from '../inc/vmc';
+import Services from '../inc/Services';
 
 function Aboutus(){
     return(
@@ -28,6 +30,11 @@ function Aboutus(){
      </div>
     </div>
     </section>   
+    {/* mission, vission, values */}
+    <Vmc/>
+
+    {/* Services */}
+     <Services/>
      </div>
      
 
